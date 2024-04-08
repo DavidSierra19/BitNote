@@ -1,0 +1,6 @@
+Primer línea escrita desde la rama MAIN
+Segunda línea escrita desde la RAMA-UNO
+Tercer línea modificada desde la RAMA-DOS
+Cuarta línea modificada desde la RAMA-DOS
+Quinta línea escrita desde la RAMA-DOS
+Sexta línea escrita desde la RAMA-DOS

@@ -1,30 +1,26 @@
-# Que debe tener un README.md como minimo
-- Tener un titulo
-- Tener una descripcion acerca del proyeto contenido
-- Autor 
+- título
+- descripción acerca del proyecto
+- autor
 ---
-# MARKDOWN
-# Titulo de nivel 1
-## Tituilo de nivel 2
-### Tituilo de nivel 3
-#### Tituilo de nivel 4
-##### Tituilo de nivel 5
-###### Tituilo de nivel 6
+# título de primer nível
+## subtítulo de nível 2
+### subtítulo de nível 3
+#### subtítulo de nível 4
+##### subtítulo de nível 5
+###### subtítulo de nível 6
 
+este es mi **primer** párrafo
 
-Este es mi **primer** parrafo
-
-Este es mi *segundo* parrafo
-
-Fundamentos
-- HTML
-- CSS
-- JavaScrip
+este es mi *segundo* párrafo
 
 * HTML
 * CSS
-* JavaScrip
+* JavaScript
+
+- HTML
+- CSS
+- JavaScript
 
 1. HTML
 2. CSS
-3. JavaScrip
+3. JavaScript
